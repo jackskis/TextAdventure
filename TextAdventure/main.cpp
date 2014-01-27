@@ -1,5 +1,4 @@
 
-
 /*
  +    string a, b;
  +    char response1;
@@ -23,9 +22,6 @@ using namespace std;
 
 int main()
 {
-    
-    cout << "Ben edited something";
-    
     cout << "Enter your name: ";
     string username, last_name;
     cin >> username >> last_name;
