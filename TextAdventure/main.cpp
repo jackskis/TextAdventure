@@ -1,3 +1,22 @@
+
+
+/*
+ +    string a, b;
+ +    char response1;
+ +    
+ +    a="You picked up the key!";
+ +    b="That's too bad";
+ +
+ +    cout << "You're in a room. Pick up key?\n";
+ +    cin >> response1;
+ +    if (response1=='y')
+ +        cout << a;
+ +    if (response1=='n')
+ +        cout << b;
+ +    
+ +*/
+ 
+
 #include <iostream>
 #include <cmath>
 using namespace std;
