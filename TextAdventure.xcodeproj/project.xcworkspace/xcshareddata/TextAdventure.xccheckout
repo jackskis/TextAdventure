@@ -5,19 +5,31 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>A7816844-5280-4843-BEB4-F3A99D18E86A</string>
+=======
+	<string>CCBA8723-C12B-487B-83B0-571073F907C8</string>
+>>>>>>> 4202303ee1c0e8744c9d205aefbe556d33769552
 	<key>IDESourceControlProjectName</key>
 	<string>TextAdventure</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>53EACC9D-99BB-4326-AAAA-FDB05C393162</key>
+=======
+		<key>14067814-E85F-4746-8907-58D939963181</key>
+>>>>>>> 4202303ee1c0e8744c9d205aefbe556d33769552
 		<string>https://github.com/jackskis/TextAdventure.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>TextAdventure.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+<<<<<<< HEAD
 		<key>53EACC9D-99BB-4326-AAAA-FDB05C393162</key>
+=======
+		<key>14067814-E85F-4746-8907-58D939963181</key>
+>>>>>>> 4202303ee1c0e8744c9d205aefbe556d33769552
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +37,22 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
+<<<<<<< HEAD
 	<string>53EACC9D-99BB-4326-AAAA-FDB05C393162</string>
+=======
+	<string>14067814-E85F-4746-8907-58D939963181</string>
+>>>>>>> 4202303ee1c0e8744c9d205aefbe556d33769552
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
+<<<<<<< HEAD
 			<string>53EACC9D-99BB-4326-AAAA-FDB05C393162</string>
+=======
+			<string>14067814-E85F-4746-8907-58D939963181</string>
+>>>>>>> 4202303ee1c0e8744c9d205aefbe556d33769552
 			<key>IDESourceControlWCCName</key>
 			<string>TextAdventure</string>
 		</dict>

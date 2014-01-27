@@ -5,6 +5,8 @@ using namespace std;
 int main()
 {
     
+    cout << "Ben edited something";
+    
     cout << "Enter your name: ";
     string username, last_name;
     cin >> username >> last_name;
@@ -38,8 +40,6 @@ int main()
     
     
     cout << "\n";
-return 0;
     
-
-
+    return 0;
 }
