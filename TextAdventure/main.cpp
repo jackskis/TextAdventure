@@ -1,10 +1,10 @@
-
 #include <iostream>
 #include <cmath>
 using namespace std;
 
 int main()
 {
+    cout << "Ben is editing";
     
     cout << "Enter your name: ";
     string username, last_name;
