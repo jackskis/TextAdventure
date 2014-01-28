@@ -24,7 +24,6 @@ using namespace std;
 int main()
 {
     
-    cout << "Ben edited something";
     
     cout << "Enter your name: ";
     string username, last_name;
@@ -56,7 +55,11 @@ int main()
     }else;
     
     cout << "You, " << username << " begin to panic, looking around frantically for a \nway out. You spot a key..." << "Do you want to pick up the key? \nPress 1 for YES and 2 for NO";
-    
+    int response1;
+    if (response1 == '1')
+        {
+            cout << "You pick up the key";
+        };
     
     cout << "\n";
     
