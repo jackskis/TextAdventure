@@ -1,5 +1,4 @@
 
-
 /*
  +    string a, b;
  +    char response1;
@@ -23,8 +22,11 @@ using namespace std;
 
 int main()
 {
+<<<<<<< HEAD
     
     
+=======
+>>>>>>> 2acc09208d210f5ae9561d373386001ec4ef98d0
     cout << "Enter your name: ";
     string username, last_name;
     cin >> username >> last_name;
