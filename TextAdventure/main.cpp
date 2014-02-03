@@ -1,4 +1,3 @@
-
 /*
  +    string a, b;
  +    char response1;
@@ -22,15 +21,16 @@ using namespace std;
 
 int main()
 {
+    string player_name;
+    
     cout << "Enter your name: ";
     string username, last_name;
     cin >> username >> last_name;
     
-    cout << "Hello, " << username << " " << last_name << ". I am pleased to meet you! \nGet ready for the best text adventure you've \never been on!" << endl << endl;
+    cout << "Hello, " << username << " " << last_name << ". I am pleased to meet you! \nGet ready for the best text adventure you've \never been on!" << endl;
     
-    cin.get();
-    int door, nonlazy = 0;
-    cout << "You awake on the floor of a small, very dimly lit room. \nYou don't remeber how you got here. \nThe only light is coming from a single bulb hanging from the ceiling.\nThere is a  door to your left." << endl;
+    cin.get()
+    cout << "You awake on the floor of a small, very dimly lit room. \nYou don't remeber how you got here. \nThe only light is coming from a single bulb hanging from the ceiling.\nThere is a  door to your left. \n There is a small wooden box lying on the floor to your right. \n" << endl;
     cout << "Do you want to try to open the door?\nPress 1 for YES and 2 for NO" << endl;
     cin >> door;
     if (nonlazy == 0)
